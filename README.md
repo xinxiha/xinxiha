@@ -11,6 +11,7 @@
    ```
    - 第二步：提交到线上仓库
    ```
+   //:给线上仓库地址添加一个关联别名，origin可以是任意名称
    $ git remote add origin https://github.com/xinxiha/xinxiha.git
    $ git push -u origin master
    ```
