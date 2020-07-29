@@ -9,4 +9,9 @@
    $ git add *
    $ git commit -m 'NO.1 commit README.md'
    ```
+   - 第二步：提交到线上仓库
+   ```
+   $ git remote add origin https://github.com/xinxiha/xinxiha.git
+   $ git push -u origin master
+   ```
 
